@@ -1,0 +1,74 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Headphones",
+      "description": "Noise-cancelling over-ear headphones with Bluetooth connectivity.",
+      "price": 99.99,
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 2,
+      "name": "Smartphone",
+      "description": "Latest model with high-resolution display and fast processor.",
+      "price": 699.99,
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 3,
+      "name": "Laptop",
+      "description": "Lightweight laptop with long battery life and powerful performance.",
+      "price": 1299.99,
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 4,
+      "name": "Smartwatch",
+      "description": "Water-resistant smartwatch with heart rate monitor and GPS.",
+      "price": 199.99,
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 5,
+      "name": "Tablet",
+      "description": "Portable tablet with high-resolution screen and stylus support.",
+      "price": 499.99,
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 6,
+      "name": "Bluetooth Speaker",
+      "description": "Portable speaker with deep bass and long battery life.",
+      "price": 59.99,
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 7,
+      "name": "Gaming Console",
+      "description": "Next-gen console with stunning graphics and immersive gameplay.",
+      "price": 399.99,
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 8,
+      "name": "4K TV",
+      "description": "Ultra HD television with vibrant colors and smart features.",
+      "price": 799.99,
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 9,
+      "name": "Digital Camera",
+      "description": "High-resolution camera with optical zoom and image stabilization.",
+      "price": 249.99,
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 10,
+      "name": "E-Reader",
+      "description": "Compact e-reader with adjustable backlight and huge storage.",
+      "price": 129.99,
+      "image": "https://via.placeholder.com/150"
+    }
+  ]
+}
